@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import streamlit as st
 import json
 import google.generativeai as genai
