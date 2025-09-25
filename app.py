@@ -412,4 +412,4 @@ if submitted:
                     cols[idx % 3].markdown(f"- {item}")
             else:
                 st.warning("No shopping list generated.")
->>>>>>> 4175920cfe924feb6304093f8c0e4b34d4bde8d7
+
