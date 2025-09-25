@@ -204,7 +204,7 @@ if submitted:
                     cols[idx % 3].markdown(f"- {item}")
             else:
                 st.warning("No shopping list generated.")
-=======
+
 import streamlit as st
 import json
 import google.generativeai as genai
