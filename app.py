@@ -111,7 +111,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # --- User Input Form ---
-with st.form("user_form"):
+with st.form("user_form_2"):
     st.markdown("### 👤 Personal Information")
     col1, col2, col3, col4 = st.columns(4)
     with col1:
